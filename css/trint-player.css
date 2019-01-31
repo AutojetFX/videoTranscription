@@ -26,11 +26,11 @@
     }
 
     #hypertranscript .active ~ span {
-      color: #666;
+      color: #2eb82e;
     }
 
     #hypertranscript p.active ~ p span {
-      color: #666;
+      color: #2eb82e;
     }
 
     #hypertranscript span.search-match {
